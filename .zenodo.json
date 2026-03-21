@@ -1,0 +1,37 @@
+{
+  "title": "neuroscience of development and brain plasticity longitudinal dataset ages 032",
+  "description": "neuroscience of development and brain plasticity longitudinal dataset ages 032",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/neuroscience-of-development-and-brain-plasticity-longitudinal-dataset-ages-032",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
